@@ -1,4 +1,8 @@
+
+
 ### Hi there 👋
+
+My name is Flipse, and I never left Tumblr. 😌 I'm a 100% of the time my own existential crisis and also Tumblr desktop themes. I write the occasional how-to tumblr-related guides.
 
 <!--
 **flipsewtf/flipsewtf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
