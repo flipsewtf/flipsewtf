@@ -1,20 +1,11 @@
 
 
-### Hi there 👋
+### Hi My name is Flipse 👋
 
-My name is Flipse, and I never left Tumblr. 😌 I'm a 100% of the time my own existential crisis and also Tumblr desktop themes. I write the occasional how-to tumblr-related guides.
+..and I never left Tumblr. 😌 I'm 100% of the time the creator my own existential crisis, and also Tumblr desktop themes. On here you will _mostly_ find the files to my themes, but I do write the occasional how-to tumblr-related guides as well.
 
-<!--
-**flipsewtf/flipsewtf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ I've been on tumblr since 2009 🥸
+- 🌱 I’m currently ~~trying to get better~~ learning Javascript 
+- 📫 You can contact me via [Tumblr](https://mournstera.tumblr.com/) or [Elsewhere](https://beacons.ai/flipse)
+#### Looking for my premium themes?
+They are available to buy on [Ko-fi](https://ko-fi.com/flipse).
