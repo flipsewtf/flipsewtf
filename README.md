@@ -8,6 +8,6 @@
 
 - ⚡ I've been on tumblr since 2009 🥸
 - 🌱 I’m currently ~~trying to get better~~ learning Javascript 
-- 📫 You can contact me via [Tumblr](https://mournstera.tumblr.com/) or [Elsewhere](https://beacons.ai/flipse)
+- 📫 You can contact me via [Tumblr](https://lushwave.tumblr.com/) or [Elsewhere](https://beacons.ai/flipse)
 #### Looking for my premium themes?
 They are available to buy on [Ko-fi](https://ko-fi.com/flipse).
