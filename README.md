@@ -1,14 +1,13 @@
-
-
-<img src="https://i.imgur.com/vS4P6DM.jpeg"/>
-
 ### Hi. I'm Flipse 👋
 
-..and I never left Tumblr. 😌 I'm 100% of the time the creator my own existential crisis, and, also Tumblr desktop themes. On here you will _mostly_ find the files to my themes, but I do write the occasional how-to tumblr-related guides, as well as some JS snippets.
+I’m 100% responsible for my own existential crises, just so we're all aware. 😌  
+I began my journey with b2/cafelog and "online diaries" (before the term *blog* was coined) around 1999/2000, complete with a domain, webrings, and fanlistings 🎉
 
-- ⚡ I've been on tumblr since 2009 🥸
-- 🌱 I’m currently ~~aiming at getting better at~~ learning Javascript
-- 🌻 My goal is to make accessible themes <3
-  
-#### Looking for my premium themes?
-They are available to buy on [Ko-fi](https://ko-fi.com/flipse).
+From 2006–2012 I didn’t really touch this creative side, but since 2012 I’ve mainly specialized in **Tumblr themes**. Lately, I’ve been exploring elsewhere with **11ty**, **Neocities**, and general fun stuff on the web.  
+
+---
+
+- ⚡ On Tumblr since 2009 🥸  
+- 🌱 Currently learning **JavaScript**, **11ty**, and **Nunjucks**  
+- 🌻 Passionate about building **accessible web stuff** <3
+- ☄️ I am into astrophysics and quantum physics on a hobby-based level
