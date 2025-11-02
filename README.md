@@ -1,13 +1,13 @@
 ### Hi. I'm Flipse 👋
 
-I’m 100% responsible for my own existential crises, just so we're all aware. 😌  
-I began my journey with b2/cafelog and "online diaries" (before the term *blog* was coined) around 1999/2000, complete with a domain, webrings, and fanlistings 🎉
+I began my journey with b2/cafelog and "online diaries" (before the term _blog_ was coined) around 1999/2000, complete with a domain, webrings, and fanlistings 🎉
 
-From 2006–2012 I didn’t really touch this creative side, but since 2012 I’ve mainly specialized in **Tumblr themes**. Lately, I’ve been exploring elsewhere with **11ty**, **Neocities**, and general fun stuff on the web.  
+From 2006–2012, I didn’t really touch this creative side, but since 2012 I’ve been making Tumblr themes while attempting to wrangle their ever-changing "quirks" and interesting choices of code. As of late 2025, I’ve finally walked away from that circus.
+
+Lately, I’ve been exploring elsewhere with **11ty**, **Neocities**, and general fun stuff on the web. Currently untangling years of questionable JavaScript habits, courtesy of Tumblr.
 
 ---
 
-- ⚡ On Tumblr since 2009 🥸  
-- 🌱 Currently learning **JavaScript**, **11ty**, and **Nunjucks**  
-- 🌻 Passionate about building **accessible web stuff** <3
-- ☄️ I am into astrophysics and quantum physics on a hobby-based level
+-   ⚡ On Tumblr since 2009 🥸
+-   🌻 Passionate about **accessible web** <3
+-   ☄️ Into astrophysics and quantum physics on a hobby-based level
